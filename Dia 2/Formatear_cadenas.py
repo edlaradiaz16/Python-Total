@@ -1,5 +1,5 @@
 color = "rojo"
-matricula = 543291
+numero_matricula = 543291
 
-print(f"el auto es {color} y su matricula es {matricula}")
+print(f"el auto es {color} y su matricula es {numero_matricula}")
 
